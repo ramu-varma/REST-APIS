@@ -1,0 +1,21 @@
+{
+  "name": "express5.js",
+  "version": "1.0.0",
+  "description": "express server",
+  "main": "app.js",
+  "scripts": {
+   
+    "start":" node app.js",
+    "dev":"nodemon app.js"
+  },
+  "keywords": [
+    "expressjs",
+    "node",
+    "js"
+  ],
+  "author": "ramu atika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
